@@ -1,0 +1,17 @@
+#box{
+    background-color: yellow;
+}
+.heading{
+    color:red;
+}
+button{
+    background-color:green;
+}
+p{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+    text-transform: capitalize;
+}
